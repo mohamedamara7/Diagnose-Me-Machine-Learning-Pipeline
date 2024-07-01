@@ -1,7 +1,7 @@
 # Diagnose-Me: Mobile Application Machine Learning Pipeline
 
 ## Overview
-Diagnose-Me is a mobile application designed to provide health diagnostics and verification processes. This documentation outlines the machine learning components of the application, specifically focusing on the Doctor Verification Process and Breast Cancer Classification. The Doctor Verification Process is crucial in ensuring that only licensed medical professionals can register as doctors within the app, while the Breast Cancer Classification model aids in early detection and diagnosis of breast cancer.
+Diagnose-Me is a mobile application designed to provide health diagnostics by leveraging the state of the art deep learning techniques. My part of the project focused on creating a Doctor Verification Process at signing up and a Breast Cancer Classification model. The Doctor Verification Process is crucial in ensuring that only licensed medical professionals can register as doctors within the app, while the Breast Cancer Classification model aids in early detection and diagnosis of breast cancer.
 
 ## Doctor Verification Process
 
