@@ -41,7 +41,7 @@ The Doctor Verification Process employs a combination of computer vision and fac
 The Breast Cancer Classification model is designed to assist in the early detection and diagnosis of breast cancer. It uses advanced machine learning techniques to analyze medical images and predict the presence of cancerous cells.
 
 ### Model Used
-- [Breast Cancer Classification](https://github.com/mohamedamara7/Breast-Cancer-Classification)
+- [Breast Cancer Classification](https://github.com/mohamedamara7/Improved-Model-Training-Procedure-for-ICIAR-2018-Grand-Challenge-Part-A-/tree/main)
 
 ## Conclusion
 Diagnose-Me leverages cutting-edge machine learning models to ensure the authenticity of medical professionals and aid in critical health diagnostics. The Doctor Verification Process and Breast Cancer Classification model exemplify the application’s commitment to accuracy and reliability in healthcare technology.
